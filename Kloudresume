@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>LaShikka Williams – Cloud & Data Professional</title>
+</head>
+<body>
+  <h1>LaShikka Williams</h1>
+  <p>Dallas–Fort Worth, TX | Cloud & Data Engineering | Business & Data Analytics</p>
+
+  <h2>About</h2>
+  <p>I build data pipelines, dashboards, and process improvements across healthcare and financial services, with experience in Azure, AWS, SQL, and Power Platform.</p>
+
+  <h2>Resumes</h2>
+  <ul>
+    <li><a href="LaShikka_Williams_CloudEngineer.pdf">Cloud & DevOps Resume</a></li>
+    <li><a href="LaShikka_Williams_DataEngineer.pdf">Data Engineer Resume</a></li>
+    <li><a href="LaShikka_Williams_BusinessAnalyst.pdf">Business & Data Analyst Resume</a></li>
+  </ul>
+
+  <h2>Projects</h2>
+  <p>Coming soon: dashboards, automation apps, and data engineering labs.</p>
+
+  <h2>Contact</h2>
+  <p>Email: Williams.lashikka@gmail.com | LinkedIn: linkedin.com/in/laswilliams</p>
+</body>
+</html>
