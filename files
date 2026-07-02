@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume | LaShikka Williams</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>LaShikka Williams</h1>
+    <p>Cloud & Data Analyst | Technology & Business Intelligence Analyst</p>
+</header>
+
+<section>
+    <h2>Professional Summary</h2>
+
+    <p>
+        IT professional with experience in cloud technologies,
+        automation, business intelligence, SQL, Python,
+        Azure, AWS, Tableau, and Power Platform.
+    </p>
+
+    <h2>Technical Skills</h2>
+
+    <ul>
+        <li>Azure</li>
+        <li>AWS</li>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>Power BI</li>
+        <li>Power Automate</li>
+        <li>Tableau</li>
+    </ul>
+
+    <h2>Experience</h2>
+
+    <h3>Data Engineering Analyst</h3>
+    <p><strong>Accenture</strong></p>
+
+    <ul>
+        <li>Built automation workflows using Power Automate.</li>
+        <li>Created Tableau dashboards for reporting.</li>
+        <li>Worked with SQL databases and cloud technologies.</li>
+        <li>Collaborated with Agile development teams.</li>
+    </ul>
+
+    <h2>Certifications</h2>
+
+    <ul>
+        <li>Microsoft Azure Fundamentals (AZ-900)</li>
+        <li>Microsoft Azure AI Fundamentals (AI-900)</li>
+        <li>AWS Certified Cloud Practitioner</li>
+        <li>Cisco CCST Networking</li>
+    </ul>
+
+</section>
+
+</body>
+</html>
+<iframe
+    src="files/LaShikka_Williams_Resume.pdf"
+    width="100%"
+    height="900px">
+</iframe>
